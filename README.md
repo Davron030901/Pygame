@@ -15,7 +15,7 @@ Bu o'yin `pygame` kutubxonasi yordamida yaratilgan oddiy, ammo qiziqarli kosmik 
 - O‘yin davomida portlashlar va o‘q uzish effektlari mavjud.
 
 ---
-├── images/
+``├── images/
 │ ├── spaceship.png
 │ ├── meteor.png
 │ ├── bullet.png
@@ -24,7 +24,7 @@ Bu o'yin `pygame` kutubxonasi yordamida yaratilgan oddiy, ammo qiziqarli kosmik 
 │ ├── explosion.wav
 │ └── laser.mp3
 ├── kosmik_jang.py
-└── README.md
+└── README.md``
 
 ## 📦 Loyiha tarkibi
 ---
