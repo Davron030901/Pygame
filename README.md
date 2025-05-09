@@ -2,7 +2,7 @@
 
 Bu o'yin `pygame` kutubxonasi yordamida yaratilgan oddiy, ammo qiziqarli kosmik jang o'yinidir. O'yinda siz kema boshqaruvchisiz va osmondan tushayotgan meteoritlardan qochishingiz hamda ularni o'q bilan yo'q qilishingiz kerak.
 
-![O'yindan skrinshot](/images/screenshot.png) <!-- Agar mavjud bo'lsa, skrinshot qo'shish tavsiya etiladi -->
+![O'yindan skrinshot](https://github.com/user-attachments/assets/95975633-67cb-4744-b1da-38595886d8fb) <!-- Agar mavjud bo'lsa, skrinshot qo'shish tavsiya etiladi -->
 
 ---
 
@@ -27,9 +27,6 @@ Bu o'yin `pygame` kutubxonasi yordamida yaratilgan oddiy, ammo qiziqarli kosmik 
 └── README.md
 
 ## 📦 Loyiha tarkibi
-
-![image](https://github.com/user-attachments/assets/95975633-67cb-4744-b1da-38595886d8fb)
-
 ---
 
 ## 🛠️ O'rnatish
